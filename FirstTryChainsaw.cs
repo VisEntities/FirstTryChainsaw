@@ -3,7 +3,7 @@
 namespace Oxide.Plugins
 {
     [Info("First Try Chainsaw", "VisEntities", "1.0.0")]
-    [Description(" ")]
+    [Description("Guarantees that chainsaws start immediately on the first attempt.")]
     public class FirstTryChainsaw : RustPlugin
     {
         #region Fields
